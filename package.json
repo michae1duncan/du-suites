@@ -1,0 +1,19 @@
+{
+  "name": "du-suites",
+  "version": "1.0.0",
+  "description": "repo for www.duncanuniversitysuites.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michae1duncan/du-suites.git"
+  },
+  "author": "michae1duncan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michae1duncan/du-suites/issues"
+  },
+  "homepage": "https://github.com/michae1duncan/du-suites#readme"
+}
