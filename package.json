@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/michae1duncan/du-suites#readme",
   "devDependencies": {
+    "browser-sync": "^2.14.0",
     "gulp": "^3.9.1"
   }
 }
