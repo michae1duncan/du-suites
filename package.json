@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michae1duncan/du-suites/issues"
   },
-  "homepage": "https://github.com/michae1duncan/du-suites#readme"
+  "homepage": "https://github.com/michae1duncan/du-suites#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
